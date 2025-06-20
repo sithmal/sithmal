@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sithmal
 - 👀 I’m interested in Learning new things.
-- 🌱 I’m currently learning Kubernetes Security.
 - 💞️ I’m looking to collaborate on Cloud projects.
 - 📫 How to reach me email: sithmal@gmail.com
 
